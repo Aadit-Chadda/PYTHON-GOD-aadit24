@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @PYTHON-GOD-aadit24
+- 👋 Hi, I’m Aadit!
 
-Hi guys! I am Aadit Chadda. Been coding for almost more than an year now. Code in python and Javascript. Focused on security, Encryption, Hashing functions,
+Hi guys! I am Aadit Chadda. Been coding for almost more than an year now. Code in python and Javascript. Focused on security, Cryptography, Hashing functions,
 Automation and AI Development, API Development and Web-scrapping.
 Am going to start Django development soon as well.
 
